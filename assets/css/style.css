@@ -27,6 +27,7 @@ h1 {
 img { 
     width: 130%;
     border: 10px;
+    align-content: center;
 }
 
 .container { 
